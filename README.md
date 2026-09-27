@@ -1,13 +1,13 @@
-# Fulvo
+`Fulvo`
 
 ![](https://komarev.com/ghpvc/?username=MadeByFulvo&color=blue)
 [![Merged PRs](https://img.shields.io/badge/Merged%20PRs-View%20All-blue)](https://github.com/pulls?q=is%3Apr+author%3Af7lvo+is%3Amerged)
 
-## Languages
+```Languages```
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,html,css,javascript,kotlin)](https://skillicons.dev)
 
-## Open Source
+```Open Source```
 
 [![Merged PRs](https://img.shields.io/badge/Merged%20PRs-View-blue?logo=github)](https://github.com/pulls?q=is%3Apr+author%3Af7lvo+is%3Amerged)
 [![Open PRs](https://img.shields.io/badge/Open%20PRs-View-blue?logo=github)](https://github.com/pulls?q=is%3Apr+author%3Af7lvo+is%3Aopen)
